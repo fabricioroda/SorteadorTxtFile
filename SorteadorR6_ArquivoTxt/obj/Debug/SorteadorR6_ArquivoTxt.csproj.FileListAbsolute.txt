@@ -8,3 +8,13 @@ D:\Projetos\SorteadorR6_ArquivoTxt\SorteadorR6_ArquivoTxt\obj\Debug\SorteadorR6_
 D:\Projetos\SorteadorR6_ArquivoTxt\SorteadorR6_ArquivoTxt\obj\Debug\SorteadorR6_ArquivoTxt.exe
 D:\Projetos\SorteadorR6_ArquivoTxt\SorteadorR6_ArquivoTxt\obj\Debug\SorteadorR6_ArquivoTxt.pdb
 D:\Projetos\SorteadorR6_ArquivoTxt\SorteadorR6_ArquivoTxt\obj\Debug\SorteadorR6_ArquivoTxt.frmPrincipal.resources
+C:\Projetos\SorteadorTxtFile\SorteadorR6_ArquivoTxt\bin\Debug\SorteadorR6_ArquivoTxt.exe.config
+C:\Projetos\SorteadorTxtFile\SorteadorR6_ArquivoTxt\bin\Debug\SorteadorR6_ArquivoTxt.exe
+C:\Projetos\SorteadorTxtFile\SorteadorR6_ArquivoTxt\bin\Debug\SorteadorR6_ArquivoTxt.pdb
+C:\Projetos\SorteadorTxtFile\SorteadorR6_ArquivoTxt\obj\Debug\SorteadorR6_ArquivoTxt.csprojAssemblyReference.cache
+C:\Projetos\SorteadorTxtFile\SorteadorR6_ArquivoTxt\obj\Debug\SorteadorR6_ArquivoTxt.frmPrincipal.resources
+C:\Projetos\SorteadorTxtFile\SorteadorR6_ArquivoTxt\obj\Debug\SorteadorR6_ArquivoTxt.Properties.Resources.resources
+C:\Projetos\SorteadorTxtFile\SorteadorR6_ArquivoTxt\obj\Debug\SorteadorR6_ArquivoTxt.csproj.GenerateResource.cache
+C:\Projetos\SorteadorTxtFile\SorteadorR6_ArquivoTxt\obj\Debug\SorteadorR6_ArquivoTxt.csproj.CoreCompileInputs.cache
+C:\Projetos\SorteadorTxtFile\SorteadorR6_ArquivoTxt\obj\Debug\SorteadorR6_ArquivoTxt.exe
+C:\Projetos\SorteadorTxtFile\SorteadorR6_ArquivoTxt\obj\Debug\SorteadorR6_ArquivoTxt.pdb

@@ -32,9 +32,9 @@ namespace SorteadorR6_ArquivoTxt
 
                 Random rand = new Random();
                 int aleatorio = rand.Next(0, linhasL.Count);
-                lblResultado.Text = "O Sorteado foi " + (linhasL[aleatorio]);
                 Thread.Sleep(1500);
                 lblResultado.Visible = true;
+                lblResultado.Text = "O Sorteado foi " + (linhasL[aleatorio]);
                 btnSorteio.Enabled = false;
                 btnLimpar.Enabled = true;
             }
